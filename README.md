@@ -5,7 +5,7 @@
 [visitors-img]: https://visitor-badge.glitch.me/badge?page_id=xihongyang.1999.GraphLearner/
 [adgc-url]: https://github.com/xihongyang1999/GraphLearner
 
-# CONVERT:Contrastive Graph Clustering with Reliable Augmentation
+# GraphLearner:Graph Node Clustering with Fully Learnable Augmentation
 
 <p align="center">   
     <a href="https://pytorch.org/" alt="PyTorch">
@@ -37,7 +37,7 @@ An official source code for paper GraphLearner:Graph Node Clustering with Fully 
 
 
 
-The code will be released soon...
+### The code will be released soon...
 
 
 <!-- ### Requirements

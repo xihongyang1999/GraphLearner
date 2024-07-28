@@ -11,7 +11,7 @@
     <a href="https://pytorch.org/" alt="PyTorch">
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
     <a href="https://www.acmmm2024.org" alt="Conference">
-        <img src="https://img.shields.io/badge/ACM MM'23-brightgreen" /></a>
+        <img src="https://img.shields.io/badge/ACM MM'24-brightgreen" /></a>
 <p/>
 
 
@@ -21,7 +21,7 @@
 [![visitors][visitors-img]][adgc-url]
 
 
-An official source code for paper CONVERT:Contrastive Graph Clustering with Reliable Augmentation, accepted by ACM MM 23. Any communications or issues are welcomed. Please contact xihong_edu@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
+An official source code for paper GraphLearner:Graph Node Clustering with Fully Learnable Augmentation, accepted by ACM MM 24. Any communications or issues are welcomed. Please contact xihong_edu@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
 
 -------------
 

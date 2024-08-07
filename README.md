@@ -66,11 +66,10 @@ python train.py
 If you use code or datasets in this repository for your research, please cite our paper.
 
 ```
-@article{GraphLearner,
-  title={GraphLearner:Graph Node Clustering with Fully Learnable Augmentation},
-  author={Yang, Xihong and Min, erxue, and Liang, Ke, and Liu, Yue and Zhou, Sihang and Wang, Siwei and Wu, huijun and Liu, Xinwang and Zhu, En},
-  journal={arXiv preprint arXiv:2212.03559},
-  year={2022}
+@inproceedings{Graphlearner,
+  title={GraphLearner: Graph Node Clustering with Fully Learnable Augmentation},
+  author={Yang, Xihong and Min, Erxue and LIANG, KE and Liu, Yue and Wang, Siwei and Wu, Huijun and Liu, Xinwang and Zhu, En and others},
+  booktitle={ACM Multimedia 2024}
 }
 ```
 

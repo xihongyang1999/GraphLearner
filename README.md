@@ -15,10 +15,8 @@
 <p/>
 
 
-
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
 
 
 An official source code for paper GraphLearner:Graph Node Clustering with Fully Learnable Augmentation, accepted by ACM MM 24. Any communications or issues are welcomed. Please contact xihong_edu@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
@@ -37,12 +35,11 @@ An official source code for paper GraphLearner:Graph Node Clustering with Fully 
 
 
 
-### The code will be released soon...
+### 
 
+### Requirements
 
-<!-- ### Requirements
-
-The proposed CONVERT is implemented with python 3.8.8 on a NVIDIA 1080 Ti GPU. 
+The proposed GraphLearner is implemented with python 3.8.8 on a NVIDIA 3090 Ti GPU. 
 
 Python package information is summarized in **requirements.txt**:
 
@@ -57,7 +54,6 @@ Python package information is summarized in **requirements.txt**:
 
 ```
 python train.py 
-``` -->
 
 
 

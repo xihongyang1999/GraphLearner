@@ -35,7 +35,7 @@ An official source code for paper GraphLearner:Graph Node Clustering with Fully 
 
 
 
-### 
+
 
 ### Requirements
 
@@ -54,6 +54,7 @@ Python package information is summarized in **requirements.txt**:
 
 ```
 python train.py 
+```
 
 
 
@@ -62,12 +63,18 @@ python train.py
 If you use code or datasets in this repository for your research, please cite our paper.
 
 ```
-@inproceedings{Graphlearner,
-  title={GraphLearner: Graph Node Clustering with Fully Learnable Augmentation},
-  author={Yang, Xihong and Min, Erxue and LIANG, KE and Liu, Yue and Wang, Siwei and Wu, Huijun and Liu, Xinwang and Zhu, En and others},
-  booktitle={ACM Multimedia 2024}
+@inproceedings{GraphLearner,
+  title={Graphlearner: Graph node clustering with fully learnable augmentation},
+  author={Yang, Xihong and Min, Erxue and Liang, Ke and Liu, Yue and Wang, Siwei and Zhou, Sihang and Wu, Huijun and Liu, Xinwang and Zhu, En},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={5517--5526},
+  year={2024}
 }
+
 ```
 
+
+
+```
 
 

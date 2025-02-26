@@ -112,7 +112,7 @@ for seed in range(10):
         if epoch > 200:
             if epoch % 20 == 0:
                 # select high-confidence samples
-                distribute = F.softmax(torch.sum(torch.pow((F1).unsqueeze(1) - centers, 2), 2), dim=1)
+                distribute = F.softmax(torch.sum(torch.pow(((F1+F2)/2).unsqueeze(1) - centers, 2), 2), dim=1)
                 distribute = torch.min(distribute, dim=1).values
                 value, index = torch.topk(distribute, int(len(distribute) * (args.threshold)))
                 distribute = torch.where(distribute <= value[-1], torch.ones_like(distribute),
